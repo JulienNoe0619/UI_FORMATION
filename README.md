@@ -11,4 +11,5 @@ _- Apprendre les différents éléments UI de Unity
 - Créer une interface responsive
 - Comprendre le fonctionnement d'un prefab_
 
-![image](https://github.com/JulienNoe0619/UI_FORMATION/assets/137102417/0d99a3a4-abc4-4d7e-92e3-4b7ded4be1d8)
+![image](https://github.com/JulienNoe0619/UI_FORMATION/assets/137102417/92a4246b-28c9-45dd-9556-51a5058a045b)
+
