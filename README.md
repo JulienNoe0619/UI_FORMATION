@@ -1,6 +1,7 @@
 Ce projet git fonctionne avec **deux templates figma** disponible dans ce repo git dans le dossiers **Resources** : 
 
-![image](https://github.com/JulienNoe0619/UI_FORMATION/assets/137102417/785e0bb2-7c28-4c63-a6ce-8809a9d8d8b8)
+![image](https://github.com/JulienNoe0619/UI_FORMATION/assets/137102417/2d6ca3ed-be0e-46b7-8c4d-7662c3ddd248)
+
 
 **Les objectifs de ce git sont :**
 
